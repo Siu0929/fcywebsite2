@@ -1,0 +1,26 @@
+export const video = [
+  {
+    thumb:"https://i.ytimg.com/vi/AGdlKzini7A/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFAoOzAP&rs=AOn4CLAkFcqzt5eqZKYjVQoMysxt2A0p5g", 
+    url:"https://www.youtube.com/watch?v=AGdlKzini7A&t", 
+    title:"化蝶", 
+    description:"方導最新作品"
+  },
+  {
+    thumb:"https://i.ytimg.com/vi/rQHmmuJ5q64/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkQ_84gS-KhGxoh2-v2SMUjX6Mqg", 
+    url:"https://www.youtube.com/watch?v=rQHmmuJ5q64", 
+    title:"肆", 
+    description:"原創作品"
+  },
+  {
+    thumb:"https://i.ytimg.com/vi/Jh5k3kzkKdM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0CSQ-t1RSJVBbllMphhoAfNGkrA", 
+    url:"https://www.youtube.com/watch?v=Jh5k3kzkKdM", 
+    title:"台灣Trip", 
+    description:"方導最新作品"
+  },
+  {
+    thumb:"https://i.ytimg.com/vi/pEOgOxeqsbQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4nty92j-1jukHe_yr4N7JqQ5FFQ", 
+    url:"https://www.youtube.com/watch?v=pEOgOxeqsbQ", 
+    title:"毒舌大狀", 
+    description:"方導最新作品"
+  },
+];
